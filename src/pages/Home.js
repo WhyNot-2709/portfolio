@@ -59,7 +59,7 @@ export default function Home() {
           <div className="about-grid">
             <div>
               <div className="about-photo">
-                <span className="about-photo-placeholder">👤</span>
+                <img src={process.env.PUBLIC_URL + '/photo.jpg'} alt="Aakanksh" />
               </div>
             </div>
             <div className="about-text">
