@@ -65,11 +65,11 @@ export default function Home() {
             <div className="about-text">
               <h3>Himan Aakanksh Reddy</h3>
               <p>
-                I'm a 3rd-year B.Tech Artificial Intelligence student at Mahindra University, Hyderabad, driven by a genuine curiosity for how intelligent systems can improve the way people live and work. I enjoy building things — from predictive ML models to full-stack web applications — and I tend to think in systems rather than just features.
-              </p>
-              <p>
-                Outside of code, I'm drawn to the intersection of technology and real-world impact, particularly in healthcare and automation. I believe in building software that is not only functional but also meaningful.
-              </p>
+  I'm a 3rd-year B.Tech Artificial Intelligence student at Mahindra University, Hyderabad. I like building things that actually work, whether that's a machine learning model or a full-stack web app, and I tend to think about the bigger picture rather than just the individual features.
+</p>
+<p>
+  I'm particularly interested in how AI can be applied to real-world problems, especially in healthcare and automation. I enjoy picking up new technologies and figuring out how to put them together in ways that make sense.
+</p>
 
               <div className="about-details">
                 <div className="detail-item">

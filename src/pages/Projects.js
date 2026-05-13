@@ -10,7 +10,7 @@ export default function Projects() {
     {
       emoji: '🅿️',
       title: 'Parking Lot Management System',
-      desc: 'A desktop GUI application for managing parking lot operations — slot allocation, vehicle tracking, and billing — built entirely in Java using the Swing UI library.',
+      desc: 'A desktop GUI application for managing parking lot operations including slot allocation, vehicle tracking, and billing. Built entirely in Java using the Swing UI library.',
       tags: ['Java', 'Swing', 'OOP', 'Desktop App'],
       github: 'https://github.com/WhyNot-2709',
     },
@@ -35,7 +35,7 @@ export default function Projects() {
       <section>
         <div className="container">
           <h2 className="section-title">Projects</h2>
-          <p className="section-sub">Things I've built — from ML models to full-stack applications</p>
+          <p className="section-sub">Things I've built, from ML models to full-stack applications</p>
 
           <div className="projects-grid">
             {projects.map((p) => (
@@ -60,7 +60,7 @@ export default function Projects() {
             <div className="project-card project-card-coming">
               <div className="coming-icon">🔬</div>
               <p className="coming-title">ML × Healthcare Project</p>
-              <p className="coming-sub">An upcoming machine learning project at the intersection of AI and the healthcare domain.</p>
+              <p className="coming-w">An upcoming machine learning project at the intersection of AI and the healthcare domain.</p>
               <span className="coming-badge">Coming Soon</span>
             </div>
           </div>
